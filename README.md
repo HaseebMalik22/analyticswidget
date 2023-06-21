@@ -1,4 +1,4 @@
-# Analytic Widgets #
+# Analytic Widget #
 
 Analytics widget block in moodle with beautiful charts and stats for users.
 
